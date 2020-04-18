@@ -1,0 +1,11 @@
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001\bin\Debug\netcoreapp2.1\HellowWorldCore001.deps.json
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001\bin\Debug\netcoreapp2.1\HellowWorldCore001.runtimeconfig.json
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001\bin\Debug\netcoreapp2.1\HellowWorldCore001.runtimeconfig.dev.json
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001\bin\Debug\netcoreapp2.1\HellowWorldCore001.dll
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001\bin\Debug\netcoreapp2.1\HellowWorldCore001.pdb
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001\obj\Debug\netcoreapp2.1\HellowWorldCore001.csprojAssemblyReference.cache
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001\obj\Debug\netcoreapp2.1\HellowWorldCore001.csproj.CoreCompileInputs.cache
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001\obj\Debug\netcoreapp2.1\HellowWorldCore001.AssemblyInfoInputs.cache
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001\obj\Debug\netcoreapp2.1\HellowWorldCore001.AssemblyInfo.cs
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001\obj\Debug\netcoreapp2.1\HellowWorldCore001.dll
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001\obj\Debug\netcoreapp2.1\HellowWorldCore001.pdb

@@ -1,0 +1,17 @@
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001UnitTests\obj\Debug\netcoreapp2.1\HellowWorldCore001UnitTests.csprojAssemblyReference.cache
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001UnitTests\obj\Debug\netcoreapp2.1\HellowWorldCore001UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001UnitTests\obj\Debug\netcoreapp2.1\HellowWorldCore001UnitTests.AssemblyInfoInputs.cache
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001UnitTests\obj\Debug\netcoreapp2.1\HellowWorldCore001UnitTests.AssemblyInfo.cs
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001UnitTests\bin\Debug\netcoreapp2.1\HellowWorldCore001UnitTests.deps.json
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001UnitTests\bin\Debug\netcoreapp2.1\HellowWorldCore001UnitTests.runtimeconfig.json
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001UnitTests\bin\Debug\netcoreapp2.1\HellowWorldCore001UnitTests.runtimeconfig.dev.json
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001UnitTests\bin\Debug\netcoreapp2.1\HellowWorldCore001UnitTests.dll
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001UnitTests\bin\Debug\netcoreapp2.1\HellowWorldCore001UnitTests.pdb
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001UnitTests\bin\Debug\netcoreapp2.1\HellowWorldCore001.dll
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001UnitTests\bin\Debug\netcoreapp2.1\HellowWorldCore001.pdb
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001UnitTests\obj\Debug\netcoreapp2.1\HellowWorldCore001UnitTests.csproj.CopyComplete
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001UnitTests\obj\Debug\netcoreapp2.1\HellowWorldCore001UnitTests.dll
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore001\HellowWorldCore001UnitTests\obj\Debug\netcoreapp2.1\HellowWorldCore001UnitTests.pdb
